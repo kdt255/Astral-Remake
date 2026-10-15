@@ -5,7 +5,6 @@
 **A pixel-faithful Dear ImGui recreation of the Astral menu, made by [kdt255](https://github.com/kdt255).**
 
 > **This project is free.** If you paid for it, you got scammed: ask for your money back and report the seller.<br>
-> **Bu proje ücretsizdir.** Bunun için para ödediysen dolandırıldın.
 
 ![Astral-Remake](assets/screenshots/hero.png)
 
