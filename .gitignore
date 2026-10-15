@@ -1,0 +1,21 @@
+# Build output
+/bin/
+*.obj
+*.pdb
+*.ilk
+*.exp
+
+# Runtime data written next to the executable
+configs/
+/scripts/
+bin/scripts/
+
+# Legacy loader prototype, not part of the Astral-Remake release
+/src/
+/build.bat
+/assets/fonts/
+
+# Editors
+.vs/
+.vscode/
+*.user
